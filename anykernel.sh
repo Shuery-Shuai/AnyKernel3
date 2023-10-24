@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Polaris-KernelSU by Shuery @ Github
+kernel.string=Polaris-Kernel by Shuery @ Github
 do.devicecheck=1
 do.modules=0
 do.systemless=1
